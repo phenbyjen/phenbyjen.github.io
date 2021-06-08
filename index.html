@@ -16,7 +16,6 @@
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="A new Flutter project.">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -49,7 +48,11 @@
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
   <script>
-    var serviceWorkerVersion = '2726219023';
+    window.onresize = function() {
+      document.body.height = window.innerHeight;
+    }
+    window.onresize(); // called to initially set the height.
+    var serviceWorkerVersion = '1025014940';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
