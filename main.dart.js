@@ -51800,7 +51800,7 @@ return s==null?H.e(H.t("_controller")):s},
 goV:function(){var s=this.z
 return s==null?H.e(H.t("beginAngle")):s},
 aY:function(){var s,r,q,p,o,n,m,l=this,k=null
-l.r=P.c3(0,C.b4.Yy(1e4)+8000)
+l.r=P.c3(0,C.b4.Yy(5000)+8000)
 l.x=new K.bO(C.b4.ky()*0.4-0.2,C.b4.ky()*0.2-0.1)
 l.y=new K.bO(C.b4.ky()*0.4-0.2,C.b4.ky()*0.2-0.1)
 l.z=C.b4.ky()*3.141592653589793/4-0.39269908169872414
