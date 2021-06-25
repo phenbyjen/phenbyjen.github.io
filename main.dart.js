@@ -51912,7 +51912,7 @@ return new B.mH(new G.VM(!0,!0,!0,p,s),r,C.y,!1,r,!0,C.k3,!1,r,1,C.b6,C.wH,r,C.a
 $S:336}
 D.xc.prototype={
 R:function(a,b){var s=null,r=this.c,q=r*0.16,p=r*0.21
-return new T.iP(new S.aP(0,r/2,0,1/0),T.l7(C.bo,H.a([new T.es(C.k0,s,s,T.nm(T.a7k(U.a3o("assets/title.png",s)),r*0.07,r*0.5),s),new V.fo(new D.i1(r*0.15,Z.Nr(C.mQ,P.aF(166,0,0,0)),"https://open.spotify.com/user/31qbhmsydb7qerw7oqtzcs2fouqa","Spotify",s),C.jZ,s),new V.fo(new D.i1(q,Z.Nr(C.mP,P.aF(166,0,0,0)),"https://www.facebook.com/phenbyjen/","Facebook",s),C.jV,s),new V.fo(new D.i1(r*0.2,Z.Nr(C.mR,P.aF(166,0,0,0)),"https://www.instagram.com/phen_byjen/","Instagram",s),C.jW,s),new V.fo(new D.i1(r*0.18,L.a7y(C.mV,P.aF(166,0,0,0)),"https://www.kkbox.com/tw/tc/profile/SouCzoYpGAzRz9wD_p","KKBox",s),C.k2,s),new V.fo(new D.i1(r*0.14,Z.Nr(C.mS,P.aF(166,0,0,0)),"https://line.me/S/shop/sticker/author/1637451","Line Sticker",s),C.k_,s),new V.fo(new D.i1(q,L.a7y(C.mT,P.aF(166,0,0,0)),s,"",s),C.jY,s),new T.es(C.k1,s,s,T.nm(C.mB,q,q),s),new T.es(C.jX,s,s,T.nm(C.m7,p,p),s)],t.E),C.fa),s)}}
+return new T.iP(new S.aP(0,r/2,0,1/0),T.l7(C.bo,H.a([new T.es(C.k1,s,s,T.nm(T.a7k(U.a3o("assets/title.png",s)),r*0.07,r*0.5),s),new V.fo(new D.i1(r*0.15,Z.Nr(C.mQ,P.aF(166,0,0,0)),"https://open.spotify.com/user/31qbhmsydb7qerw7oqtzcs2fouqa","Spotify",s),C.k_,s),new V.fo(new D.i1(q,Z.Nr(C.mP,P.aF(166,0,0,0)),"https://www.facebook.com/phenbyjen/","Facebook",s),C.jV,s),new V.fo(new D.i1(r*0.2,Z.Nr(C.mR,P.aF(166,0,0,0)),"https://www.instagram.com/phen_byjen/","Instagram",s),C.jX,s),new V.fo(new D.i1(r*0.18,L.a7y(C.mV,P.aF(166,0,0,0)),"https://www.kkbox.com/tw/tc/profile/SouCzoYpGAzRz9wD_p","KKBox",s),C.k2,s),new V.fo(new D.i1(r*0.14,Z.Nr(C.mS,P.aF(166,0,0,0)),"https://line.me/S/shop/sticker/author/1637451","Line Sticker",s),C.k0,s),new V.fo(new D.i1(q,L.a7y(C.mT,P.aF(166,0,0,0)),s,"",s),C.jZ,s),new T.es(C.jW,s,s,T.nm(C.mB,q,q),s),new T.es(C.jY,s,s,T.nm(C.m7,p,p),s)],t.E),C.fa),s)}}
 D.i1.prototype={
 R:function(a,b){var s=this,r=null,q=s.c,p=R.a3p(!1,!0,T.l7(C.bo,H.a([U.a3o("assets/ball.png",r),T.a8F(new T.yZ(0.4,0.4,T.a7k(s.d),r)),T.a8F(new A.qG(new D.UB(s),r))],t.E),C.bN),r,!0,r,r,r,r,r,r,r,r,r,new D.UC(s),r)
 return new T.l1(q,q,p,r)},
@@ -53821,13 +53821,13 @@ C.af=new K.bO(0,0)
 C.jT=new K.bO(0,1)
 C.jU=new K.bO(1,0)
 C.jV=new K.bO(1.1,-0.9)
-C.jW=new K.bO(-0.1,-0.55)
-C.jX=new K.bO(0.14,0.94)
-C.jY=new K.bO(1.2,-0.4)
-C.jZ=new K.bO(-1.05,-0.7)
-C.k_=new K.bO(0.35,-0.15)
-C.k0=new K.bO(0,-0.84)
-C.k1=new K.bO(-1.1,0.6)
+C.jW=new K.bO(-1.1,0.7)
+C.jX=new K.bO(-0.1,-0.55)
+C.jY=new K.bO(0.14,0.94)
+C.jZ=new K.bO(1.2,-0.4)
+C.k_=new K.bO(-1.05,-0.7)
+C.k0=new K.bO(0.35,-0.15)
+C.k1=new K.bO(0,-0.84)
 C.k2=new K.bO(-1.15,-0.2)
 C.k3=new L.p3(null)
 C.k4=new G.wS("AnimationBehavior.normal")
@@ -54251,7 +54251,7 @@ C.hw=new P.mo(3,"FilterQuality.high")
 C.lX=new P.I(4294043903)
 C.zc=new A.p(!0,C.lX,null,"Seto",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 C.bQ=new P.i7(2,"TextAlign.center")
-C.AL=new L.CE("PENKER \u6625\u5b63\u5546\u54c1\n\u5373\u5c07\u65bc 7/15 \u4e0b\u67b6~\n\u5982\u9700\u8a02\u8cfc\u53ef\u4ee5\u76e1\u65e9\u4e0b\u55ae\u5594\n\n(\u8863\u670d\u7b49\u7248\u578b\u504f\u5927\uff0c\u8cfc\u8cb7\u524d\n\u53ef\u4ee5\u5148\u53c3\u8003\u5c3a\u5bf8\u8868\u5594)",C.zc,C.bQ,null,null)
+C.AL=new L.CE("PENKER X \u72d7\u751f\u7c89\u96e3 \u6625\u5b63\u5546\u54c1\n\u5373\u5c07\u65bc 7/15 \u4e0b\u67b6\n\u559c\u6b61\u7684\u8a71\u4e0d\u8981\u932f\u904e\u5594\n\n(\u8863\u670d\u7b49\u7248\u578b\u504f\u5927\uff0c\u8cfc\u8cb7\u524d\n\u53ef\u4ee5\u5148\u53c3\u8003\u5c3a\u5bf8\u8868)",C.zc,C.bQ,null,null)
 C.mB=new T.q4(C.AL,null)
 C.I=new P.S(0,0)
 C.mC=new U.yP(C.I,C.I)
