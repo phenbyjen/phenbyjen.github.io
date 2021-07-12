@@ -51941,7 +51941,7 @@ D.xd.prototype={
 R:function(a,b){var s=null,r=this.c,q=r*0.16,p=r*0.21
 return new T.iP(new S.aP(0,r/2,0,1/0),T.l7(C.bo,H.a([new T.es(C.k2,s,s,T.nm(T.a7k(U.OY("assets/title.png",s,s,s)),r*0.07,r*0.5),s),new V.fo(new D.i1(r*0.15,Z.Ns(C.mQ,P.aF(166,0,0,0)),"https://open.spotify.com/user/31qbhmsydb7qerw7oqtzcs2fouqa","Spotify",s),C.k0,s),new V.fo(new D.i1(q,Z.Ns(C.mP,P.aF(166,0,0,0)),"https://www.facebook.com/phenbyjen/","Facebook",s),C.jW,s),new V.fo(new D.i1(r*0.2,Z.Ns(C.mR,P.aF(166,0,0,0)),"https://www.instagram.com/phen_byjen/","Instagram",s),C.jY,s),new V.fo(new D.i1(r*0.18,new L.qo(C.mU,P.aF(166,0,0,0),s),"https://www.kkbox.com/tw/tc/profile/SouCzoYpGAzRz9wD_p","KKBox",s),C.k3,s),new V.fo(new D.i1(r*0.14,Z.Ns(C.mS,P.aF(166,0,0,0)),"https://line.me/S/shop/sticker/author/1637451","Line Sticker",s),C.k1,s),new V.fo(new D.i1(q,U.OY("assets/shadow.png",P.aF(C.c.an(178.5),0,0,0),C.bU,s),"https://phenbyjen.com","Website",s),C.k_,s),new T.es(C.jX,s,s,T.nm(C.mB,q,q),s),new T.es(C.jZ,s,s,T.nm(C.m7,p,p),s)],t.E),C.fa),s)}}
 D.i1.prototype={
-R:function(a,b){var s=this,r=null,q=s.c,p=R.a3q(!1,!0,T.l7(C.bo,H.a([T.ahS(U.OY("assets/ball.png",r,r,C.fY)),T.a8E(new T.yZ(0.4,0.4,T.a7k(s.d),r)),T.a8E(new A.qG(new D.UD(s),r))],t.E),C.bN),r,!0,r,r,r,r,r,r,r,r,r,new D.UE(s),r)
+R:function(a,b){var s=this,r=null,q=s.c,p=R.a3q(!1,!0,T.l7(C.bo,H.a([T.ahS(U.OY("assets/ball.png",r,r,C.fY)),T.a8E(new T.yZ(0.35,0.35,T.a7k(s.d),r)),T.a8E(new A.qG(new D.UD(s),r))],t.E),C.bN),r,!0,r,r,r,r,r,r,r,r,r,new D.UE(s),r)
 return new T.l1(q,q,p,r)},
 d8:function(a){return this.f.$0()},
 gl:function(a){return this.c}}
