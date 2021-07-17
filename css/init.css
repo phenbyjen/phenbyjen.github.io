@@ -19,11 +19,11 @@
   position: relative;
   width: 10px;
   height: 10px;
-  border-radius: 5px;
-  background-color: #9880ff;
-  color: #9880ff;
-  animation: dotFlashing 1s infinite linear alternate;
-  animation-delay: .5s;
+  border-radius: 10px;
+  background-color: #9185ad;
+  color: #9185ad;
+  animation: dotFlashing 1.5s infinite linear alternate;
+  animation-delay: 1s;
 }
 
 .dot-flashing::before, .dot-flashing::after {
@@ -37,10 +37,10 @@
   left: -15px;
   width: 10px;
   height: 10px;
-  border-radius: 5px;
-  background-color: #9880ff;
-  color: #9880ff;
-  animation: dotFlashing 1s infinite alternate;
+  border-radius: 10px;
+  background-color: #9185ad;
+  color: #9185ad;
+  animation: dotFlashing 1.5s infinite alternate;
   animation-delay: 0s;
 }
 
@@ -48,16 +48,16 @@
   left: 15px;
   width: 10px;
   height: 10px;
-  border-radius: 5px;
-  background-color: #9880ff;
-  color: #9880ff;
-  animation: dotFlashing 1s infinite alternate;
-  animation-delay: 1s;
+  border-radius: 10px;
+  background-color: #9185ad;
+  color: #9185ad;
+  animation: dotFlashing 1.5s infinite alternate;
+  animation-delay: 2s;
 }
 
 @keyframes dotFlashing {
   0% {
-    background-color: #9880ff;
+    background-color: #9185ad;
   }
   50%,
   100% {
