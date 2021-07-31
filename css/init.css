@@ -1,0 +1,81 @@
+@charset "UTF-8";
+/**
+ *
+ * three-dots.css v0.1.0
+ *
+ * https://nzbin.github.io/three-dots/
+ *
+ * Copyright (c) 2018 nzbin
+ *
+ * Released under the MIT license
+ *
+ */
+/**
+ * ==============================================
+ * Dot Flashing
+ * ==============================================
+ */
+.dot-flashing {
+  position: relative;
+  width: 10px;
+  height: 10px;
+  border-radius: 10px;
+  background-color: #9185ad;
+  color: #9185ad;
+  animation: dotFlashing 1.5s infinite linear alternate;
+  animation-delay: 1s;
+}
+
+.dot-flashing::before, .dot-flashing::after {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  top: 0;
+}
+
+.dot-flashing::before {
+  left: -15px;
+  width: 10px;
+  height: 10px;
+  border-radius: 10px;
+  background-color: #9185ad;
+  color: #9185ad;
+  animation: dotFlashing 1.5s infinite alternate;
+  animation-delay: 0s;
+}
+
+.dot-flashing::after {
+  left: 15px;
+  width: 10px;
+  height: 10px;
+  border-radius: 10px;
+  background-color: #9185ad;
+  color: #9185ad;
+  animation: dotFlashing 1.5s infinite alternate;
+  animation-delay: 2s;
+}
+
+@keyframes dotFlashing {
+  0% {
+    background-color: #9185ad;
+  }
+  50%,
+  100% {
+    background-color: #ebe6ff;
+  }
+}
+/**
+ * ==============================================
+ * Center postion
+ * ==============================================
+ */
+.center {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
