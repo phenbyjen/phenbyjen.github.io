@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg37"
+   sodipodi:docname="memopresso.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="C:\Users\User\AndroidStudioProjects\links\assets\logo\memopresso.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview39"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     inkscape:zoom="0.35628173"
+     inkscape:cx="216.1211"
+     inkscape:cy="360.66963"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg37" />
+  <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">logo</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs8">
+    <polygon
+       id="path-1"
+       points="0.033042188,0.0087637795 13.908234,0.0087637795 13.908234,13.993331 0.033042188,13.993331 " />
+    <polygon
+       id="path-3"
+       points="0,0.048036242 25.952561,0.048036242 25.952561,26.425532 0,26.425532 " />
+  </defs>
+  <g
+     id="g109"
+     inkscape:label="logo"
+     transform="matrix(9.6329362,0,0,9.4777361,125.00064,124.54557)">
+    <path
+       d="m 13.275765,17.206989 c -2.47155,0 -4.4825609,-2.011158 -4.4825609,-4.482863 0,-2.471592 2.0110109,-4.4828628 4.4825609,-4.4828628 2.47155,0 4.482786,2.0112708 4.482786,4.4828628 0,2.471705 -2.011236,4.482863 -4.482786,4.482863 M 17.704324,6.3939122 16.657053,7.4413133 C 15.680401,6.813928 14.52041,6.4482526 13.275765,6.4482526 9.8154382,6.4482526 7,9.2641886 7,12.724126 7,16.184401 9.8154382,19 13.275765,19 c 3.460664,0 6.275766,-2.815599 6.275766,-6.275874 0,-1.244441 -0.365557,-2.404453 -0.992819,-3.3812336 l 1.047046,-1.0471765 c 0.525656,-0.5253285 0.525656,-1.3763629 0,-1.9018037 -0.525207,-0.5252163 -1.376115,-0.5252163 -1.901434,0"
+       id="Fill-25"
+       fill="#ffffff"
+       style="display:inline;opacity:0.65;fill:#000000" />
+    <path
+       d="m 22.433747,17.484095 c 0,2.958204 -2.367872,5.364607 -5.27844,5.364607 H 8.7975186 c -2.9107881,0 -5.2784406,-2.406403 -5.2784406,-5.364607 V 8.9895181 c 0,-2.9584279 2.3676525,-5.3648309 5.2784406,-5.3648309 h 8.3577884 c 2.910568,0 5.27844,2.406403 5.27844,5.3648309 z M 17.155307,0.04794666 H 8.7975186 c -4.8512033,0 -8.797584701695,4.01153014 -8.797584701695,8.94157144 v 8.4945769 c 0,4.929817 3.946381401695,8.941459 8.797584701695,8.941459 h 8.3577884 c 4.850983,0 8.797254,-4.011642 8.797254,-8.941459 V 8.9895181 c 0,-4.9300413 -3.946271,-8.94157144 -8.797254,-8.94157144 z"
+       id="Fill-22"
+       fill="#ffffff"
+       mask="url(#mask-4)"
+       style="opacity:0.65;fill:#000000" />
+  </g>
+  <metadata
+     id="metadata2897">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <ellipse
+     style="display:none;opacity:0.65;fill:#000000;fill-opacity:1;stroke-width:0.588246"
+     id="path37683"
+     cx="246.33563"
+     cy="253.67479"
+     inkscape:label="text path"
+     rx="150.00056"
+     ry="149.99944"
+     transform="matrix(0.99989034,-0.01480876,0.01455162,0.99989412,0,0)" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.9649px;line-height:1.25;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;display:inline;opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.436123"
+     id="text1948"
+     inkscape:label="text"
+     transform="rotate(-159.22687,244.01597,239.84859)"><textPath
+       xlink:href="#path37683"
+       id="textPath37731">Memopresso</textPath></text>
+</svg>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fab"
+   data-icon="kkbox"
+   class="svg-inline--fa fa-spotify fa-w-16"
+   role="img"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="kkbox.svg"
+   width="500"
+   height="500"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="C:\Users\User\AndroidStudioProjects\links\assets\logo\kkbox.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     width="900px"
+     inkscape:zoom="0.40625"
+     inkscape:cx="17.230769"
+     inkscape:cy="523.07692"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     fill="currentColor"
+     d="m 125,204.49153 v 114.8 h 5.11429 c 7.14285,0 8.91428,-5.6 8.91428,-8.4 V 209.60581 c 0,-3.05714 2.57143,-7.22857 3.82857,-8.94285 29.34286,-17.85715 89.8,-54.82857 96.94286,-59.94286 7.14286,-5.11429 14.88571,-2.11429 17.85714,0 29.34286,16.57143 88.51429,50.25714 90.57143,52.28571 2.02857,2.05715 4.25714,1.71429 5.08572,1.28572 l 7.65714,-7.65714 c 1.02857,-1.02858 -0.42857,-2.97144 -1.25715,-3.82858 -30.2,-17.42857 -92.6,-53.05714 -100.77142,-56.11428 -8.17143,-3.05715 -17.85714,-1.28572 -21.68572,0 C 205.8,145.40582 141.08571,183.83439 133.94286,187.92009 126.8,192.00581 125,200.66296 125,204.49153 Z m 246.17143,5.11428 c -3.05715,0 -8.05715,6.8 -10.2,10.2 v 100.77143 c 0,4.08571 -1.68572,6.8 -2.54286,7.65714 l -100.77143,61.2 c -4.08571,2.05715 -11.48571,2.57143 -15.31428,1.28572 L 151.8,337.14867 c -0.42857,-0.42857 -1.8,-1.28571 -3.82857,-1.28571 -2.54286,0 -7.65714,6.39999 -7.65714,7.65714 0,1.02857 0.85714,2.14285 1.28571,2.57142 l 98.2,58.65715 c 3.05715,2.05714 16.6,2.54286 21.68572,0 32.31428,-19.54286 98.48571,-59.94286 104.6,-65.05714 C 372.2,334.60581 374.57143,327.37724 375,324.40581 V 212.14867 c -1.25714,0 0,-2.54286 -3.82857,-2.54286 z M 193.88572,321.83439 V 210.86296 h 31.88571 v 44.65713 l 48.48571,-45.91428 h 36.97143 L 260.2,264.43438 c 16.6,17.02858 50,51.28572 51.02857,52.31429 1.02857,1 0.42857,2.97143 0,3.82857 h -35.71428 l -49.74286,-48.48571 v 49.74286 z M 125,204.49153 v 114.8 h 5.11429 c 7.14285,0 8.91428,-5.6 8.91428,-8.4 V 209.60581 c 0,-3.05714 2.57143,-7.22857 3.82857,-8.94285 29.34286,-17.85715 89.8,-54.82857 96.94286,-59.94286 7.14286,-5.11429 14.88571,-2.11429 17.85714,0 29.34286,16.57143 88.51429,50.25714 90.57143,52.28571 2.02857,2.05715 4.25714,1.71429 5.08572,1.28572 l 7.65714,-7.65714 c 1.02857,-1.02858 -0.42857,-2.97144 -1.25715,-3.82858 -30.2,-17.42857 -92.6,-53.05714 -100.77142,-56.11428 -8.17143,-3.05715 -17.85714,-1.28572 -21.68572,0 C 205.8,145.40582 141.08571,183.83439 133.94286,187.92009 126.8,192.00581 125,200.66296 125,204.49153 Z m 246.17143,5.11428 c -3.05715,0 -8.05715,6.8 -10.2,10.2 v 100.77143 c 0,4.08571 -1.68572,6.8 -2.54286,7.65714 l -100.77143,61.2 c -4.08571,2.05715 -11.48571,2.57143 -15.31428,1.28572 L 151.8,337.14867 c -0.42857,-0.42857 -1.8,-1.28571 -3.82857,-1.28571 -2.54286,0 -7.65714,6.39999 -7.65714,7.65714 0,1.02857 0.85714,2.14285 1.28571,2.57142 l 98.2,58.65715 c 3.05715,2.05714 16.6,2.54286 21.68572,0 32.31428,-19.54286 98.48571,-59.94286 104.6,-65.05714 C 372.2,334.60581 374.57143,327.37724 375,324.40581 V 212.14867 c -1.25714,0 0,-2.54286 -3.82857,-2.54286 z M 193.88572,321.83439 V 210.86296 h 31.88571 v 44.65713 l 48.48571,-45.91428 h 36.97143 L 260.2,264.43438 c 16.6,17.02858 50,51.28572 51.02857,52.31429 1.02857,1 0.42857,2.97143 0,3.82857 h -35.71428 l -49.74286,-48.48571 v 49.74286 z"
+     id="path2"
+     style="opacity:0.65;stroke-width:0.285714" />
+  <ellipse
+     style="display:none;opacity:0.65;fill:#000000;fill-opacity:1;stroke-width:0.588247"
+     id="path37683"
+     cx="6.2320905"
+     cy="668.52637"
+     inkscape:label="text path"
+     rx="150.00101"
+     ry="149.99944"
+     transform="matrix(0.99989034,-0.01480872,0.01455166,0.99989412,0,0)" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.9649px;line-height:1.25;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;display:inline;opacity:0.65;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.436123"
+     id="text1948"
+     inkscape:label="text"
+     transform="rotate(-127.51622,27.639694,400.77329)"><textPath
+       xlink:href="#path37683"
+       id="textPath37731">KKBox</textPath></text>
+</svg>
